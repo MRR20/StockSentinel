@@ -1,0 +1,16 @@
+torch
+stable_baselines3
+spacy
+scikit-learn
+seaborn
+plotly
+transformers
+tensorboard
+matplotlib
+gymnasium
+gym
+huggingface-hub
+numpy
+pandas
+pygame
+tqdm
